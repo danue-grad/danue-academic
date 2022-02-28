@@ -1,1 +1,0 @@
-# danue-academic
