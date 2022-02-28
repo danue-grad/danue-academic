@@ -1,0 +1,23 @@
+---
+title: New post
+author: ''
+date: '2022-02-28'
+slug: new-post
+categories: []
+tags: []
+subtitle: ''
+summary: ''
+authors: []
+lastmod: '2022-02-28T16:54:53+01:00'
+featured: no
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: no
+projects: []
+---
+
+```{r}
+plot(rnorm(n = 100, mean = 0, sd = 1))
+```
+
